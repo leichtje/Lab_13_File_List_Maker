@@ -1,0 +1,8 @@
+sample
+sample
+ data to write into our text file
+This data will be added to line 2 of our text file
+This data is for line 3 of the text file
+Sample data for line 4
+Sample data for line 5
+Sample
